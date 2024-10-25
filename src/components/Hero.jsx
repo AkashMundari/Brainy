@@ -6,7 +6,7 @@ const Hero = () => {
     <>
       <div className="hero-section relative p-6 md:pt-14 md:pl-14" id="home">
         {/* Overlay div for background blur/opacity */}
-        <div className="absolute inset-0 bg-black/40 backdrop-blur-[2px]"></div>
+        <div className="absolute inset-0 bg-black/20 backdrop-blur-[4px]"></div>
 
         {/* Content wrapper - make sure it's above the overlay */}
         <div className="relative z-10">
