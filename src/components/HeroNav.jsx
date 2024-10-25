@@ -40,9 +40,9 @@ const HeroNav = () => {
 
   const menuItems = [
     { name: "Home", id: "home", href: "#home" },
-    { name: "Agenda", id: "benefits", href: "#benefits" },
+    { name: "Benefits", id: "benefits", href: "#benefits" },
     { name: "Reviews", id: "reviews", href: "#reviews" },
-    { name: "Benefits", id: "agenda", href: "#agenda" },
+    { name: "Agenda", id: "agenda", href: "#agenda" },
   ];
 
   const scrollToSection = (sectionId) => {
