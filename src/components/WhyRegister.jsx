@@ -29,27 +29,18 @@ const WhyRegister = () => {
             <div className="flex justify-center">
               <ul className="list-disc inline-block text-left text-gray-800 text-lg space-y-2 max-w-2xl">
                 <li>
-                  20+ years of experience in brain development and mental
-                  arithmetic
+                  Limited spots for the free webinar—register before they fill up
                 </li>
                 <li>
-                  Expert educators specializing in abacus training and cognitive
-                  skills
+                  Exclusive insights into brain training for enhanced learning
                 </li>
                 <li>
-                  Proven track record in enhancing children's learning and
-                  academic performance
+                  Live demonstration of mental math and brain skills in action
                 </li>
                 <li>
-                  Focused on innovative, fun, and engaging teaching methods
+                  Simple techniques to boost academic and personal success
                 </li>
-                <li>
-                  Hosts vary by center but all bring extensive knowledge and
-                  dedication
-                </li>
-                <li>
-                  Committed to helping children unlock their full potential
-                </li>
+                
               </ul>
             </div>
 
