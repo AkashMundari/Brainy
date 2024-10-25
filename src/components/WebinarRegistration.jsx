@@ -97,7 +97,7 @@ const WebinarRegistration = () => {
       <div className=" p-6 rounded-lg">
         <div className="w-full flex justify-center items-center py-4 ">
           <form
-            className="w-full md:w-[500px]  space-y-4 bg-white rounded-lg shadow-lg p-5"
+            className="w-full md:w-[500px]  space-y-4 bg-blue-200 rounded-lg shadow-lg p-5"
             onSubmit={handleSubmit}
           >
             <h3 className="text-2xl font-semibold text-center text-gray-800 mb-2">
@@ -163,7 +163,7 @@ const WebinarRegistration = () => {
 
             <button
               type="submit"
-              className="w-full bg-[#024978] text-white py-3 rounded-md font-medium hover:bg-[#0470b5] transition-colors"
+              className="w-full bg-[#145f91] text-white py-3 rounded-md font-medium hover:bg-[#0470b5] transition-colors"
             >
               CLAIM YOUR SPOT NOW
             </button>
