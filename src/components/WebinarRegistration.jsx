@@ -56,7 +56,7 @@ const WebinarRegistration = () => {
   };
 
   return (
-    <div className="w-full max-w-6xl mx-auto poppins-light mt-10  p-5 rounded-sm">
+    <div className="w-full max-w-6xl mx-auto poppins-light mt-10  p-5 rounded-sm" id="agenda">
       <div className="text-center mb-8">
         <h2 className="text-2xl md:text-4xl font-semibold text-gray-800 mb-2">
           What You'll Gain from the Webinar
